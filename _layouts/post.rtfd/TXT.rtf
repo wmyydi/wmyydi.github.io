@@ -1,0 +1,52 @@
+{\rtf1\ansi\ansicpg936\cocoartf1504
+{\fonttbl\f0\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;\csgray\c100000;\cssrgb\c0\c0\c0;}
+\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl280\partightenfactor0
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 --- layout: default ---\
+\{% if page.reading_time %\}\
+\pard\pardeftab720\sl280\sa240\partightenfactor0
+\cf2 ~ \{% capture words %\} \{\{ content | number_of_words | minus: 180 \}\} \{% endcapture %\} \{% unless words contains "-" %\} \{\{ words | plus: 180 | divided_by: 180 | append: " min" \}\} \{% endunless %\} \
+\pard\pardeftab720\sl280\partightenfactor0
+\cf2 \{% endif %\}\
+\{% if page.thumb %\}  \{% endif %\}\
+\pard\pardeftab720\sl560\sa321\partightenfactor0
+
+\b\fs48 \cf2 \{\{ page.title \}\}\
+\pard\pardeftab720\sl280\partightenfactor0
+
+\b0\fs24 \cf2 \{\{ content \}\} \
+\{% if page.date %\}\
+\pard\pardeftab720\sl340\sa280\partightenfactor0
+
+\b\fs28 \cf2 Date\
+\pard\pardeftab720\sl280\partightenfactor0
+
+\b0\fs24 \cf2 \{\{ page.date | date: "%B %-d, %Y" \}\} \
+\{% endif %\} \{% if page.author %\}\
+\pard\pardeftab720\sl340\sa280\partightenfactor0
+
+\b\fs28 \cf2 Author\
+\pard\pardeftab720\sl280\partightenfactor0
+
+\b0\fs24 \cf2 \{\{ page.author \}\} \
+\{% endif %\} \{% if page.show_categories %\}\
+\pard\pardeftab720\sl340\sa280\partightenfactor0
+
+\b\fs28 \cf2 Categories\
+\pard\pardeftab720\sl280\partightenfactor0
+
+\b0\fs24 \cf2 \{% for category in page.categories %\} \{\{ category | capitalize \}\}\'a0 \{% endfor %\} \
+\{% endif %\} \{% if page.show_tags %\}\
+\pard\pardeftab720\sl340\sa280\partightenfactor0
+
+\b\fs28 \cf2 Tags\
+\pard\pardeftab720\sl280\partightenfactor0
+
+\b0\fs24 \cf2 \{% for tag in page.tags %\} \{\{ tag | capitalize \}\}\'a0 \{% endfor %\} \
+\{% endif %\} \
+}
