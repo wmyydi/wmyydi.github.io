@@ -1,13 +1,16 @@
 ---
 layout: post
-title: "是什么字体"
+title: "Back to Work"
 date: 2015-02-06
 backgrounds:
-https://hd.unsplash.com/photo-1418985991508-e47386d96a71
+    - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/code-screen.jpg
+    - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/the-desk.jpg
 thumb: https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/coding.jpg
+categories: development work
+tags: home work office coding design
 ---
 
-字体检测dimentum sagittis viverra `var x = 10;`. Vivamus suscipit quis lectus porta sollicitudin.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut porta, felis eget vehicula porttitor, mauris ipsum tincidunt ligula, ac pretium risus sapien at metus. Donec pellentesque volutpat porttitor. Integer condimentum sagittis viverra `var x = 10;`. Vivamus suscipit quis lectus porta sollicitudin.
 
 {% highlight scss %}
 .container {
@@ -17,7 +20,7 @@ thumb: https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/coding
     margin: 0 auto;
     width: $content-width;
     z-index: 10;
-    
+
     @include media-query($on-palm) {
         background: rgba($background-color, .95);
         width: 100%;
@@ -26,8 +29,6 @@ thumb: https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/coding
 {% endhighlight %}
 
 Nulla sollicitudin nibh a magna malesuada, vitae dictum tellus mollis. Etiam sit amet justo massa. Integer sed mi volutpat, sollicitudin orci eget, tincidunt tellus. Mauris vitae vestibulum mi.
-
-！[sample image]（https://pic3.zhimg.com/1120a6dbf688d9902adfb582db0116de_b.png）
 
 ## Donec imperdiet
 
