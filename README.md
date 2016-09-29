@@ -1,51 +1,116 @@
-# *folio
-A simple theme for showcasing your work, emphasis on whitespace, transparency, and helvetica. 
+Travelogue
+==========
+[![Live Demo](http://img.shields.io/badge/Travelogue-DEMO-7D8866.svg?style=flat)](https://salgnt.github.io/Travelogue)&nbsp;
+[![The MIT License](http://img.shields.io/badge/License-MIT-green.svg?style=flat)](#license)&nbsp;
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SalGnt/Travelogue?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+Travelogue is a minimal, single-column [Jekyll](http://jekyllrb.com/) theme that provides an immersive read experience for your readers.
+
+![Post](https://dl.dropboxusercontent.com/u/18322837/GitHub/Travelogue/Post.png)
 
 
-<a href="http://liabogoev.com/-folio">Live Demo</a>
+## Getting Started
+The theme provides a complete Jekyll setup. Download it and start the Jekyll server.
 
-<hr/>
+    git clone https://github.com/SalGnt/Travelogue.git
+    cd Travelogue
+    jekyll serve
 
-
-## Features
-
-### Collections
-This Jekyll theme implements collections to let you break up your work into categories. The example is divided into poetry and portfolio, but easily revamp this into recipes, apps, short stories, limmericks, whatever your creative work is. 
-> To do this, edit the collections in the config file, create a corresponding folder, and update the portfolio and poetry source files. 
-
-Three different layouts are included—the poetry layout, for a simple list of entries, the blog layout (index.html), for more detailed descriptive list of entries, and the portfolio layout. The portfolio layout overlays a descriptive hoverover on a background image. If no image is provided, the square is auto-filled with the chosen theme color. Thumbnail sizing is not necessary, as the grid crops images perfectly. 
-
-### Portfolio Specifics
-You can easily add full pages for each of the projects in your portfolio. If you want one to link to an external website, create a file for it in _portfolio, and  fil in the YAML front matter as you would for another, but with a redirect, like so: 
-
-	---
-	layout: post
-	title: Project
-	description: a project that redirects to another website
-	img:
-	redirect: https://otherpage.com
-	--- 
-
-### Theming
-Six beautiful theme colors have been selected to choose from. The default is red, but quickly change it by editing the _base.scss file in line 40. The color variable are listed there, as well. 
-
-### Photos
-Photo formatting is made simple using rows of a 3-column system. Make photos 1/3, 2/3, or full width. Easily create beautiful grids within your blog posts and projects pages. 
-
-### Code Highlighting
-This theme implements Jekyll's built in code syntax highlighting with Pygments. Just use a liquid tag to delineate your code: 
-{% highlight python %}
-	code code code
-{% endhighlight %}
+Visit the [Jekyll website](http://jekyllrb.com/) for more information.
 
 
-<hr/>
-The MIT License (MIT)
-Copyright (c) 2015 Lia Bogoev
+### Features
+* Minimal, content focused design;
+* Responsive and mobile friendly;
+* Integrated slideshow activated on page scroll;
+* Customizable share buttons;
+* Disqus integration;
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+#### Sidebar
+A link of each page will be added to the menu integrated in the sidebar.
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+![Post Header](https://dl.dropboxusercontent.com/u/18322837/GitHub/Travelogue/Sidebar.png)
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+#### Post Thumbnail
+The thumbnail can be added by specifying a path to an image in the front matter.
 
+    thumb: http://yourdomain.com/public/images/post_title/thumb.jpeg
+
+#### Backgrounds
+The theme has an integrated slideshow. Its control is attached to the scroll action on the page, as shown in the [original concept](http://on.be.net/1zUTXz0).
+
+You can add one or more `backgrounds` in the front matter by using the syntax shown below.
+
+    backgrounds:
+        - http://yourdomain.com/public/images/post_title/background_01.jpeg
+        - http://yourdomain.com/public/images/post_title/background_02.jpeg
+        - http://yourdomain.com/public/images/post_title/background_03.jpeg
+        - ...
+
+#### Info
+All the details about a post are located after its content. Tags and categories can be hidden by adding the following variables in the front matter.
+
+    show_tags: false
+    show_categories: false
+
+You can also specify the author's name for each post by adding the following variable in the front matter.
+
+    author: John Doe
+
+![Post Footer](https://dl.dropboxusercontent.com/u/18322837/GitHub/Travelogue/Footer.png)
+
+#### Share Buttons
+The template make use of [RRSSB](https://github.com/kni-labs/rrssb). You can enable it in the `_config.yml` file.
+
+    share_buttons: true
+
+If you want you can also enable or disable each share button by editing the `# RRSSBB` section in the `_data/social.yml` file.
+
+#### Disqus
+The template let you use [Disqus](https://disqus.com). You can enable it in the `_config.yml` file.
+
+    disqus: true
+
+You should set your Disqus shortname under the `# Disqus` section in the `_data/social.yml` file.
+
+#### Next Post
+A link to the next post will be placed at the end of each post.
+
+
+# Authors
+Dmitry Zelinsky (Designer)
+
+* [Dribbble](https://dribbble.com/dddzzzru)
+* [Twitter](https://twitter.com/dddzzzru)
+
+Salvatore Gentile (Developer)
+
+* [GitHub](https://github.com/SalGnt)
+* [Twitter](https://twitter.com/_sgentile)
+* [Dribbble](https://dribbble.com/SalGnt)
+
+
+# License
+The theme is released under **The MIT License (MIT)**.
+
+    The MIT License (MIT)
+
+    Copyright (c) 2015 Salvatore Gentile
+
+    Permission is hereby granted, free of charge, to any person obtaining a copy
+    of this software and associated documentation files (the "Software"), to deal
+    in the Software without restriction, including without limitation the rights
+    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+    copies of the Software, and to permit persons to whom the Software is
+    furnished to do so, subject to the following conditions:
+
+    The above copyright notice and this permission notice shall be included in all
+    copies or substantial portions of the Software.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+    SOFTWARE.
