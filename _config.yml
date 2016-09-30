@@ -31,6 +31,7 @@ defaults:
       values:
         reading_time: false
         # Meta
+        show_date: false
         show_tags: false
         show_categories: false
         # Social
