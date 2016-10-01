@@ -3,7 +3,8 @@ layout: post
 title: 中文什么字体
 date: 2015-02-06
 backgrounds:
-    - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/code-screen.jpg
+    - 
+wmyydi.github.io/background/er tong.jpeg
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/the-desk.jpg
 thumb: https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/coding.jpg
 categories: development work
@@ -20,7 +21,7 @@ tags: home work office coding design
     margin: 0 auto;
     width: $content-width;
     z-index: 10;
-
+    
     @include media-query($on-palm) {
         background: rgba($background-color, .95);
         width: 100%;
@@ -33,6 +34,10 @@ Nulla sollicitudin nibh a magna malesuada, vitae dictum tellus mollis. Etiam sit
 ## Donec imperdiet
 
 ![Sample Image](http://placehold.it/480x480)
+
+
+
+！[]([wmyydi.github.io](https://github.com/wmyydi/wmyydi.github.io)/[background](https://github.com/wmyydi/wmyydi.github.io/tree/master/background)/**er tong.jpeg**)
 
 Donec imperdiet accumsan faucibus. Nullam faucibus luctus quam, a dapibus neque aliquam quis. Aenean sit amet risus vitae lectus fermentum dapibus. Integer sit amet porttitor nisl. Etiam ac elit purus. Sed vulputate hendrerit euismod. Sed accumsan sem at eros tempor volutpat. Nam iaculis, leo sit amet viverra placerat, ante tortor fringilla erat, ac finibus nunc purus et lectus.
 
