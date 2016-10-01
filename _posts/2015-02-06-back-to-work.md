@@ -63,6 +63,6 @@ Etiam placerat est sed quam semper scelerisque. Suspendisse quis malesuada dolor
 </main>
 {% endhighlight %}
 
-![Sample Image](http://placehold.it/600x480)
+![sample image](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/er%20tong.jpeg?raw=true)
 
 Donec facilisis magna in sapien convallis auctor. In porttitor neque magna, ut aliquet diam mollis mattis. Praesent iaculis enim nisl, sit amet molestie nunc rutrum ut. Sed tincidunt dolor eget lacinia interdum. Morbi blandit, augue nec pharetra posuere, odio tortor congue magna, sed dictum libero nunc quis mi. Donec feugiat massa tortor, id tincidunt velit scelerisque sed `<i>emph</i>`. Suspendisse lacinia diam id lectus dignissim, sit amet eleifend elit rutrum. Mauris nunc sapien, ultrices sed vehicula sed, efficitur nec leo.
