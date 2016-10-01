@@ -1,17 +1,16 @@
 ---
 layout: post
-title: 中文什么字体
+title: 中文
 date: 2015-02-06
 backgrounds:
-    - 
-wmyydi.github.io/background/er tong.jpeg
-    - https://github.com/wmyydi/wmyydi.github.io/blob/master/background/er%20tong.jpeg?raw=true
+    - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/code-screen.jpg
+    - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/the-desk.jpg
 thumb: https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/coding.jpg
 categories: development work
 tags: home work office coding design
 ---
 
-完了字体非改不可了elit. Ut porta,有反应吗 felis eget vehicula porttitor, mauris ipsum tincidunt ligula, ac pretium risus sapien at metus. Donec pellentesque volutpat porttitor. Integer condimentum sagittis viverra `var x = 10;`. Vivamus suscipit quis lectus porta sollicitudin.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut porta, felis eget vehicula p能显示文字吗incidunt ligula, ac pretium risus sapien at metus. Donec pellentesque volutpat porttitor. Integer condimentum sagittis viverra `var x = 10;`. Vivamus suscipit quis lectus porta sollicitudin.
 
 {% highlight scss %}
 .container {
@@ -35,15 +34,7 @@ Nulla sollicitudin nibh a magna malesuada, vitae dictum tellus mollis. Etiam sit
 
 ![Sample Image](http://placehold.it/480x480)
 
-
-
-![sample image](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/er%20tong.jpeg?raw=true/480x480)
-
 Donec imperdiet accumsan faucibus. Nullam faucibus luctus quam, a dapibus neque aliquam quis. Aenean sit amet risus vitae lectus fermentum dapibus. Integer sit amet porttitor nisl. Etiam ac elit purus. Sed vulputate hendrerit euismod. Sed accumsan sem at eros tempor volutpat. Nam iaculis, leo sit amet viverra placerat, ante tortor fringilla erat, ac finibus nunc purus et lectus.
-
-![Sample Image](http://placehold.it/480x480)
-
-![Sample Image]
 
 {% highlight js %}
 var name = "John";
