@@ -16,9 +16,9 @@ tags: home work office coding design
 
 相信大多数人生病时都会抱怨：去医院挂号实在太困难！特别是有孩子的家长们，不仅去医院的频率更高，挂号的心情也更急切。作为全国规模最大最权威的综合性儿科医院，北京儿童医院每天都人满为患，虽然已经有了用于挂号的手机App，但由于其在功能和体验上不能满足广大家长的要求，选择来现场挂号的人还是占大多数，遂院方希望重新设计一款手机App，并加大推广力度，取代费时费力的现场挂号制度，减轻院方压力，也为广大家长和患儿提供方便。
 
- ![屏幕快照 2016-10-02 下午7.58.46](/Users/manman/Desktop/屏幕快照 2016-10-02 下午7.58.46.png)
+ 
 
-
+ ![er tong](/Users/manman/wmyydi.github.io/background/er tong.jpeg)
 
 Nulla sollicitudin nibh a magna malesuada, vitae dictum tellus mollis. Etiam sit amet justo massa. Integer sed mi volutpat, sollicitudin orci eget, tincidunt tellus. Mauris vitae vestibulum mi.
 
