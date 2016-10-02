@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 中文
+title: 北京儿童医院挂号App
 date: 2015-02-06
 backgrounds:
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/code-screen.jpg
@@ -10,27 +10,19 @@ categories: development work
 tags: home work office coding design
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut porta, felis eget vehicula p能显示文字吗incidunt ligula, ac pretium risus sapien at metus. Donec pellentesque volutpat porttitor. Integer condimentum sagittis viverra `var x = 10;`. Vivamus suscipit quis lectus porta sollicitudin.
 
-{% highlight scss %}
-.container {
-    background: $background-color;
-    padding: 0;
-    position: relative;
-    margin: 0 auto;
-    width: $content-width;
-    z-index: 10;
-    
-    @include media-query($on-palm) {
-        background: rgba($background-color, .95);
-        width: 100%;
-    }
-}
-{% endhighlight %}
+
+**项目背景**
+
+相信大多数人生病时都会抱怨：去医院挂号实在太困难！特别是有孩子的家长们，不仅去医院的频率更高，挂号的心情也更急切。作为全国规模最大最权威的综合性儿科医院，北京儿童医院每天都人满为患，虽然已经有了用于挂号的手机App，但由于其在功能和体验上不能满足广大家长的要求，选择来现场挂号的人还是占大多数，遂院方希望重新设计一款手机App，并加大推广力度，取代费时费力的现场挂号制度，减轻院方压力，也为广大家长和患儿提供方便。
+
+ ![屏幕快照 2016-10-02 下午7.58.46](/Users/manman/Desktop/屏幕快照 2016-10-02 下午7.58.46.png)
+
+
 
 Nulla sollicitudin nibh a magna malesuada, vitae dictum tellus mollis. Etiam sit amet justo massa. Integer sed mi volutpat, sollicitudin orci eget, tincidunt tellus. Mauris vitae vestibulum mi.
 
-## Donec imperdiet
+## Dimperdiet
 
 ![Sample Image](http://placehold.it/480x480)
 
