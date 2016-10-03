@@ -3,7 +3,7 @@ layout: post
 title: 北京儿童医院挂号App
 date: 2015-02-06
 backgrounds:
-    -http://img2.3lian.com/2014/f6/192/d/112.jpg
+    -http://oeh90lxrc.bkt.clouddn.com/er%20tong.jpeg
 thumb: https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/coding.jpg
 categories: development work
 tags: home work office coding design
@@ -39,13 +39,17 @@ tags: home work office coding design
 
 ![](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/%E6%8C%82%E5%8F%B71.png?raw=true) 
 
- 
+
+
+ ![](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/%E6%8C%82%E5%8F%B72.png?raw=true)
+
+
 
 **候诊**
 
 候诊过程中家长比较担心的是：儿童的抵抗力比较弱，与很多患儿长时间处于相同的空间内，会不会感染其它疾病。有家长表示会至少两个人一起陪孩子去医院，一个负责排队，一个带孩子到医院附近等待。家长的顾虑不无道理，但也加重了看病的负担。如果把候诊比喻成等候用餐的话，马上就能联想到已广泛用于餐厅等位的App排号功能，为何不把它应用到候诊的情景下呢：
 
-
+![](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/%E5%80%99%E8%AF%8A1.png?raw=true)
 
 排号功能一般采用下拉刷新的方式来查询进度，但考虑到医院系统承受不住大规模的查询，所以使用了点击按钮刷新的方式。
 
@@ -54,6 +58,10 @@ tags: home work office coding design
 **检查**
 
 检查的过程中涉及的流程更为复杂，检查的项目不同，流程也有所差异，且一次可能检查多个项目，为了明确信息采用了卡片的形式，每个卡片代表一个检查项目，将流程变为可视的步骤，且可通过App进行操作。根据就诊过程卡片的状态可分为如下几种：
+
+
+
+![](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/%E5%B0%B1%E8%AF%8A.png?raw=true)
 
 
 
