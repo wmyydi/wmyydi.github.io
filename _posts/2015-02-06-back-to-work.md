@@ -29,7 +29,7 @@ tags: home work office coding design
 
 接到项目需求后，用研同事到医院进行了实地走访，了解就诊的流程中的实际情况，并邀请7位家长进行了电话访谈。下图为访谈总结的就医过程体验
 
-
+![](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/diaoyan.png?raw=true)
 
 可以看出在挂号、候诊及检查阶段的体验较差，通过使用App可以解决挂号排队的问题，那么另外两个来提升这几个阶段的体验呢？
 
@@ -37,7 +37,7 @@ tags: home work office coding design
 
 **挂号**
 
- 
+![](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/%E6%8C%82%E5%8F%B71.png?raw=true) 
 
  
 
