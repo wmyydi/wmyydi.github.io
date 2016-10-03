@@ -17,13 +17,13 @@ tags: home work office coding design
 
 相信大多数人生病时都会抱怨：去医院挂号实在太困难！特别是有孩子的家长们，不仅去医院的频率更高，挂号的心情也更急切。作为全国规模最大最权威的综合性儿科医院，北京儿童医院每天都人满为患，虽然已经有了用于挂号的手机App，但由于其在功能和体验上不能满足广大家长的要求，选择来现场挂号的人还是占大多数，遂院方希望重新设计一款手机App，并加大推广力度，取代费时费力的现场挂号制度，减轻院方压力，也为广大家长和患儿提供方便。
 
-
+​          
 
 **我的角色**
 
 参与用户调研，根据调研结果确定功能、负责整个项目的交互设计及输出 
 
-
+​          
 
 **痛点**
 
@@ -33,17 +33,15 @@ tags: home work office coding design
 
 可以看出在挂号、候诊及检查阶段的体验较差，通过使用App可以解决挂号排队的问题，那么另外两个来提升这几个阶段的体验呢？
 
-
+​            
 
 **挂号**
 
 ![](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/%E6%8C%82%E5%8F%B71.png?raw=true) 
 
-​                       
+​                                                 ![](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/%E6%8C%82%E5%8F%B72.png?raw=true)
 
-​                      ![](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/%E6%8C%82%E5%8F%B72.png?raw=true)
-
-
+​              
 
 **候诊**
 
@@ -53,21 +51,21 @@ tags: home work office coding design
 
 排号功能一般采用下拉刷新的方式来查询进度，但考虑到医院系统承受不住大规模的查询，所以使用了点击按钮刷新的方式。
 
-
+​             
 
 **检查**
 
 检查的过程中涉及的流程更为复杂，检查的项目不同，流程也有所差异，且一次可能检查多个项目，为了明确信息采用了卡片的形式，每个卡片代表一个检查项目，将流程变为可视的步骤，且可通过App进行操作。根据就诊过程卡片的状态可分为如下几种：
 
-
+​              
 
 ![](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/%E5%B0%B1%E8%AF%8A.png?raw=true)
 
-
+​               
 
 其中根据是否可以当天进行检查、是否需排队、是否需要取检等等可根据项目不同细分为不同流程。
 
-
+​               
 
 **总结**
 
@@ -77,4 +75,4 @@ tags: home work office coding design
 
 上线那天因为兼容性还有新旧系统对接出了不少问题，也发现了一些设计上的不足，但没有机会再去改进了，因为开发和工期的原因没有上线的模块也不知道还会不会上线，总有很多遗憾，我能做得就是总结经验，希望下个项目会做得更好。
 
-
+​                 
