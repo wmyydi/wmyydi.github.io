@@ -3,7 +3,7 @@ layout: post
 title: 北京儿童医院挂号App
 date: 2015-02-06
 backgrounds:
-    -http://oeh90lxrc.bkt.clouddn.com/er%20tong.jpeg
+    -https://raw.githubusercontent.com/wmyydi/wmyydi.github.io/master/background/vanilla.jpeg
 thumb: https://github.com/wmyydi/wmyydi.github.io/blob/master/background/icon.png?raw=true
 categories: development work
 tags: home work office coding design
