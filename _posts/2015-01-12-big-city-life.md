@@ -1,23 +1,63 @@
 ---
-layout: post
-title: "Big City Life"
+**layout: post
+title: 新华线上工会
 date: 2015-01-12
-backgrounds:
-    - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/vanilla.jpeg
-    - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/morning.jpeg
 thumb: https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/the-bridge.jpeg
 categories: travel city
 tags: work business metropolis
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut porta, felis eget vehicula porttitor, mauris ipsum tincidunt ligula, ac pretium risus sapien at metus. Donec pellentesque volutpat porttitor. Integer condimentum sagittis viverra. Vivamus suscipit quis lectus porta sollicitudin.
+​                     
 
-> Nulla sollicitudin nibh a magna malesuada, vitae dictum tellus mollis. Etiam sit amet justo massa. Integer sed mi volutpat, sollicitudin orci eget, tincidunt tellus. Mauris vitae vestibulum mi.
+一个公司采买节日福利，员工选购个人福利的工会平台，包含网站及移动端App。
 
-## Donec imperdiet
-Donec imperdiet accumsan faucibus. Nullam faucibus luctus quam, a dapibus neque aliquam quis. Aenean sit amet risus vitae lectus fermentum dapibus. Integer sit amet porttitor nisl. Etiam ac elit purus. Sed vulputate hendrerit euismod. Sed accumsan sem at eros tempor volutpat. Nam iaculis, leo sit amet viverra placerat, ante tortor fringilla erat, ac finibus nunc purus et lectus. Ut eu justo vulputate, tempus odio sed, mattis felis. Proin mollis dolor at sapien condimentum lobortis. Praesent non massa elementum, rutrum dui sit amet, feugiat velit. In a felis sit amet quam ultrices dignissim. Ut efficitur velit at purus placerat, eu finibus est pharetra. Aenean id molestie risus. Mauris gravida erat id diam condimentum viverra.
+​                 
 
-## Etiam placerat
-Etiam placerat est sed quam semper scelerisque. Suspendisse quis malesuada dolor, eget convallis ipsum. Vivamus elementum luctus diam, eu malesuada eros vulputate sed. Sed ultricies lacinia sodales. Nullam egestas auctor mauris vel mollis. Curabitur vel risus vitae felis cursus convallis eget et magna. Nullam vel purus vel ante porta faucibus id suscipit dolor. Cras posuere, dolor nec suscipit egestas, dui sem eleifend enim, sit amet ornare nunc enim non orci. Donec aliquet magna sed felis consectetur, dictum tincidunt ipsum lobortis. Nulla efficitur est sed auctor eleifend.
+**需求分析**
 
-Donec facilisis magna in sapien convallis auctor. In porttitor neque magna, ut aliquet diam mollis mattis. Praesent iaculis enim nisl, sit amet molestie nunc rutrum ut. Sed tincidunt dolor eget lacinia interdum. Morbi blandit, augue nec pharetra posuere, odio tortor congue magna, sed dictum libero nunc quis mi. Donec feugiat massa tortor, id tincidunt velit scelerisque sed. Suspendisse lacinia diam id lectus dignissim, sit amet eleifend elit rutrum. Mauris nunc sapien, ultrices sed vehicula sed, efficitur nec leo.
+通过前期用户调研，我们发现除传统的节日福利外，很多福利难以做到满足不同员工的需求。
+
+所以希望通过增加员工自助选择福利的方式来提升满意度。
+
+确定不同角色获取积分/现金渠道及购买方式：      
+
+| ![屏幕快照 2016-10-06 下午4.13.26](/Users/manman/Desktop/屏幕快照 2016-10-06 下午4.13.26.png) | ![屏幕快照 2016-10-06 下午4.12.54](/Users/manman/Desktop/屏幕快照 2016-10-06 下午4.12.54.png) |
+| ---------------------------------------- | ---------------------------------------- |
+|                                          |                                          |
+
+​                 
+
+**思考**
+
+网站可进行复杂操作，HR用于管理员工及分发福利，也可用于员工购买商品，移动端可用于员工查看及购买福利。
+
+本人独立负责移动端交互设计及网站部分模块设计，下面主要描述移动端设计过程。
+
+通过思维导图理清信息架构（App）：
+
+ ![Slice](../../Desktop/Slice.png)
+
+通过调查我们发现关于福利的种类可以不局限于实体福利，除了利用平台优势将保险作为福利，各种优惠券等线下服务也是很好的福利选择。将其作为一大类加以突出，可以提高员工的幸福感。
+
+
+
+**增加亮点**
+
+虽然App包含内容只是网站的一部分，但很多功能设计得当可以得到更好的效果。
+
+例如在首页放置**福利日历**，不仅可以提醒卡券等到期及时使用或续费，不浪费已有福利。也可以放置福利预告，提高员工工作的积极性。![新华线上工会_员工_我的福利_首页](../../Desktop/新华线上工会_员工_我的福利_首页.png)
+
+​                      
+
+**来点惊喜**
+
+虚拟福利总是悄无声息？打开App时，如果有新发放的福利则弹出福利弹窗，是不是会感到惊喜。
+
+![屏幕快照 2016-10-06 下午7.43.37](../../Desktop/屏幕快照 2016-10-06 下午7.43.37.png)
+
+​                 
+
+**交互文档**
+
+截取一小节交互文档，将相同页面的不同状态统一整理，方便对比查看，理清思路。![我的福利](../../Desktop/我的福利.png)
+
