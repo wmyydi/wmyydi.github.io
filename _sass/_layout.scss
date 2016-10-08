@@ -114,12 +114,12 @@
         }
 
         .post-list-link {
-            background: rgba($dark-color, .5);
+            
             bottom: 0;
             left: 0;
             position: absolute;
             right: 0;
-            top: 150px;
+            top: 0;
 
             &:hover {
                 background: rgba($dark-color, .25);
