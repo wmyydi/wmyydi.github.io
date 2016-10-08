@@ -2,8 +2,7 @@
 layout: post
 title: 新华线上工会
 date: 2015-01-12
-thumb: https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/the-bridge.jpeg
-categories: travel city
+thumb: https://github.com/wmyydi/wmyydi.github.io/blob/master/background/3 新华.png?raw=true
 tags: work business metropolis
 ---
 

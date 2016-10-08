@@ -27,7 +27,7 @@ tags: home work office coding design
 
 接到项目需求后，用研同事到医院进行了实地走访，了解就诊的流程中的实际情况，并邀请7位家长进行了电话访谈。下图为访谈总结的就医过程体验
 
-![](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/diaoyan.png?raw=true)
+![](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/1 diaoyan.png?raw=true)
 
 可以看出在挂号、候诊及检查阶段的体验较差，通过使用App可以解决挂号排队的问题，那么另外两个来提升这几个阶段的体验呢？
 
@@ -35,9 +35,9 @@ tags: home work office coding design
 
 **挂号**
 
-![](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/%E6%8C%82%E5%8F%B71.png?raw=true) 
+![](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/1 挂号1.png?raw=true) 
 
-​                                                 ![](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/%E6%8C%82%E5%8F%B72.png?raw=true)
+​                                                 ![](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/1 挂号2.png?raw=true)
 
 ​              
 
@@ -45,7 +45,7 @@ tags: home work office coding design
 
 候诊过程中家长比较担心的是：儿童的抵抗力比较弱，与很多患儿长时间处于相同的空间内，会不会感染其它疾病。有家长表示会至少两个人一起陪孩子去医院，一个负责排队，一个带孩子到医院附近等待。家长的顾虑不无道理，但也加重了看病的负担。如果把候诊比喻成等候用餐的话，马上就能联想到已广泛用于餐厅等位的App排号功能，为何不把它应用到候诊的情景下呢：
 
-![](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/%E5%80%99%E8%AF%8A1.png?raw=true)
+![](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/1 候诊1.png?raw=true)
 
 排号功能一般采用下拉刷新的方式来查询进度，但考虑到医院系统承受不住大规模的查询，所以使用了点击按钮刷新的方式。
 
@@ -57,7 +57,7 @@ tags: home work office coding design
 
 ​              
 
-![](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/%E5%B0%B1%E8%AF%8A.png?raw=true)
+![](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/1 就诊.png?raw=true)
 
 ​               
 

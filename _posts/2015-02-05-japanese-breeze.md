@@ -2,7 +2,7 @@
 layout: post
 title: 中国移动微信公众号设计
 date: 2015-02-05
-thumb: https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/chemex.jpg
+thumb: https://github.com/wmyydi/wmyydi.github.io/blob/master/background/2 移动.png?raw=true
 categories: travel city
 tags: japan winter spring metropolis
 ---
@@ -13,7 +13,7 @@ tags: japan winter spring metropolis
 
 接到设计移动微信公众号平台的项目后，首先要考虑的是和其它的平台相比，他的优势在哪里？我做了一个小调查，询问了身边的朋友和同事，对微信平台的优势做了一个小总结。 
 
-​               ![1](/Users/manman/Desktop/1.png)
+​               ![1](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/2 微信优势.png?raw=true)
 
 可以看出不仅在办理业务方面，使用微信公众号很方便，在社交推广方面更具有天然优势。
 
@@ -23,7 +23,7 @@ tags: japan winter spring metropolis
 
 移动涉及的业务众多，有哪些功能是必须的？又有哪些功能放在微信上效果更佳的呢？我和同事在公司内部组织了一次头脑风暴：
 
-​                                    ![屏幕快照 2016-10-05 下午4.56.35](/Users/manman/Desktop/屏幕快照 2016-10-05 下午4.56.35.png)
+​                                    ![](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/2 调研.png?raw=true)
 
 ​            
 
@@ -35,7 +35,7 @@ tags: japan winter spring metropolis
 
 如何在无趣的查流量、充话费中感受到归属感呢？我想到了通过有趣的活动、签到、收集徽章等各种任务，让用户可以感受到自己与移动的点滴，随手一查，即有不一样的发现。
 
- ![屏幕快照 2016-10-05 下午6.04.33](/Users/manman/Desktop/屏幕快照 2016-10-05 下午6.04.33.png)
+ ![屏幕快照 2016-10-05 下午6.04.33](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/2 主页.png?raw=true)
 
 ​                
 
@@ -45,13 +45,13 @@ tags: japan winter spring metropolis
 
 例（套餐数据流量相关）：
 
- ![屏幕快照 2016-10-05 下午9.24.00](/Users/manman/Desktop/屏幕快照 2016-10-05 下午9.24.00.png)
+ ![屏幕快照 2016-10-05 下午9.24.00](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/2 提醒.png?raw=true)
 
 ​               
 
 **设计细节**
 
-​           ![屏幕快照 2016-10-05 下午10.25.54](/Users/manman/Desktop/屏幕快照 2016-10-05 下午10.25.54.png)
+​           ![屏幕快照 2016-10-05 下午10.25.54](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/2 细节.png?raw=true)
 
 ​               
 
@@ -63,8 +63,8 @@ tags: japan winter spring metropolis
 
 在类似登录/注册等有强逻辑的模块，使用流程图不仅可以理清设计思路，也可以为开发提供方便。
 
- ![绑定流程图](/Users/manman/Desktop/绑定流程图.png)
+ ![绑定流程图](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/2 绑定流程图.png?raw=true)
 
 ​               
 
- ![服务密码绑定](/Users/manman/Desktop/服务密码绑定.png)
+ ![服务密码绑定](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/2 服务密码绑定.png?raw=true)
