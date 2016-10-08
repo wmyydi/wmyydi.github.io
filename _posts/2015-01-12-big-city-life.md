@@ -2,7 +2,7 @@
 layout: post
 title: 新华线上工会
 date: 2015-01-12
-thumb: https://github.com/wmyydi/wmyydi.github.io/blob/master/background/3 新华.jpg?raw=true
+thumb: https://github.com/wmyydi/wmyydi.github.io/blob/master/background/3 新华.png?raw=true
 tags: work business metropolis
 ---
 
