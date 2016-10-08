@@ -2,7 +2,7 @@
 layout: post
 title: 北京儿童医院挂号App
 date: 2015-02-06
-thumb: https://github.com/wmyydi/wmyydi.github.io/blob/master/background/icon.png?raw=true
+thumb: https://github.com/wmyydi/wmyydi.github.io/blob/master/background/1 icon.png?raw=true
 categories: development work
 tags: home work office coding design
 ---
