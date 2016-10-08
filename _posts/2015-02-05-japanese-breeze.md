@@ -1,22 +1,70 @@
 ---
 layout: post
-title: "Japanese Breeze"
+title: 中国移动微信公众号设计
 date: 2015-02-05
-backgrounds:
-    - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/tube.jpg
 thumb: https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/chemex.jpg
 categories: travel city
 tags: japan winter spring metropolis
 ---
 
-**Lorem ipsum** dolor sit amet, consectetur adipiscing elit. _Ut porta_, felis eget vehicula `porttitor`, mauris ipsum tincidunt ligula, ac pretium risus sapien at metus. Donec pellentesque volutpat porttitor. Integer condimentum sagittis viverra. Vivamus suscipit quis lectus porta sollicitudin.
 
-> Nulla sollicitudin nibh a magna malesuada, vitae dictum tellus mollis. Etiam sit amet justo massa. Integer sed mi volutpat, sollicitudin orci eget, tincidunt tellus. Mauris vitae vestibulum mi.
 
-## Donec imperdiet
-Donec imperdiet accumsan faucibus. Nullam faucibus luctus quam, a dapibus neque aliquam quis. Aenean sit amet risus vitae lectus fermentum dapibus. Integer sit amet porttitor nisl. Etiam ac elit purus. Sed vulputate hendrerit euismod. Sed accumsan sem at eros tempor volutpat. Nam iaculis, leo sit amet viverra placerat, ante tortor fringilla erat, ac finibus nunc purus et lectus. Ut eu justo vulputate, tempus odio sed, mattis felis. Proin mollis dolor at sapien condimentum lobortis. Praesent non massa elementum, rutrum dui sit amet, feugiat velit. In a felis sit amet quam ultrices dignissim. Ut efficitur velit at purus placerat, eu finibus est pharetra. Aenean id molestie risus. Mauris gravida erat id diam condimentum viverra.
+**优势**
 
-## Etiam placerat
-Etiam placerat est sed quam semper scelerisque. Suspendisse quis malesuada dolor, eget convallis ipsum. Vivamus elementum luctus diam, eu malesuada eros vulputate sed. Sed ultricies lacinia sodales. Nullam egestas auctor mauris vel mollis. Curabitur vel risus vitae felis cursus convallis eget et magna. Nullam vel purus vel ante porta faucibus id suscipit dolor. Cras posuere, dolor nec suscipit egestas, dui sem eleifend enim, sit amet ornare nunc enim non orci. Donec aliquet magna sed felis consectetur, dictum tincidunt ipsum lobortis. Nulla efficitur est sed auctor eleifend.
+接到设计移动微信公众号平台的项目后，首先要考虑的是和其它的平台相比，他的优势在哪里？我做了一个小调查，询问了身边的朋友和同事，对微信平台的优势做了一个小总结。 
 
-Donec facilisis magna in sapien convallis auctor. In porttitor neque magna, ut aliquet diam mollis mattis. Praesent iaculis enim nisl, sit amet molestie nunc rutrum ut. Sed tincidunt dolor eget lacinia interdum. Morbi blandit, augue nec pharetra posuere, odio tortor congue magna, sed dictum libero nunc quis mi. Donec feugiat massa tortor, id tincidunt velit scelerisque sed. Suspendisse lacinia diam id lectus dignissim, sit amet eleifend elit rutrum. Mauris nunc sapien, ultrices sed vehicula sed, efficitur nec leo.
+​               ![1](/Users/manman/Desktop/1.png)
+
+可以看出不仅在办理业务方面，使用微信公众号很方便，在社交推广方面更具有天然优势。
+
+
+
+**功能**
+
+移动涉及的业务众多，有哪些功能是必须的？又有哪些功能放在微信上效果更佳的呢？我和同事在公司内部组织了一次头脑风暴：
+
+​                                    ![屏幕快照 2016-10-05 下午4.56.35](/Users/manman/Desktop/屏幕快照 2016-10-05 下午4.56.35.png)
+
+​            
+
+除了常规的业务办理外，我们将如何利用微信公众号这个平台，让用户对品牌产生归属感，在使用的过程中建立起情感的联系确定为设计的重点。
+
+​           
+
+**情感**
+
+如何在无趣的查流量、充话费中感受到归属感呢？我想到了通过有趣的活动、签到、收集徽章等各种任务，让用户可以感受到自己与移动的点滴，随手一查，即有不一样的发现。
+
+ ![屏幕快照 2016-10-05 下午6.04.33](/Users/manman/Desktop/屏幕快照 2016-10-05 下午6.04.33.png)
+
+​                
+
+**利用公众号推送**
+
+比起短信提醒，利用公众号进行推送可以采用多种表现形式，也可链接到其它页面，查询更多信息。通过从移动方面获取的信息，我在设计中加入了用于微信号的各类图文消息推送，在用户可能需要操作的情景下给予提示。
+
+例（套餐数据流量相关）：
+
+ ![屏幕快照 2016-10-05 下午9.24.00](/Users/manman/Desktop/屏幕快照 2016-10-05 下午9.24.00.png)
+
+​               
+
+**设计细节**
+
+​           ![屏幕快照 2016-10-05 下午10.25.54](/Users/manman/Desktop/屏幕快照 2016-10-05 下午10.25.54.png)
+
+​               
+
+在数据流量显示各套餐使用情况，在查询信息时时在同一个页面显示所有，减少层级，并提供办理相关业务的入口。
+
+
+
+**流程图**
+
+在类似登录/注册等有强逻辑的模块，使用流程图不仅可以理清设计思路，也可以为开发提供方便。
+
+ ![绑定流程图](/Users/manman/Desktop/绑定流程图.png)
+
+​               
+
+ ![服务密码绑定](/Users/manman/Desktop/服务密码绑定.png)
