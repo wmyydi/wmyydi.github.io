@@ -7,11 +7,9 @@ categories: development work
 tags: home work office coding design
 ---
 
-​              
-
 ![](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/1 toutu.png?raw=true)
 
-
+​                  
 
 **项目背景**
 
