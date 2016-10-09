@@ -186,7 +186,7 @@
     letter-spacing: 1px;
     line-height: 135%;
     margin: 0;
-    text-transform: uppercase;
+    text-transform: none;
     text-align: center;
 
     @include media-query($on-laptop) {
