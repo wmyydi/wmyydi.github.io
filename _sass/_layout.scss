@@ -178,7 +178,15 @@
     padding: $spacing-unit 0;
 }
 
+.post-thumb {
+    height: 200px;
+    margin: 0 auto $spacing-unit auto;
+    object-fit: cover;
+    position: relative;
+    width: 200px;
 
+    
+}
 
 .post-title {
     font-size: 42px;
