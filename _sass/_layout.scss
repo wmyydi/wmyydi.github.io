@@ -182,11 +182,10 @@
 
 .post-title {
     font-size: 26px;
-    font-style: normal;
+    font-weight: bold;
     letter-spacing: 1px;
     line-height: 135%;
     margin: 0;
-    text-transform: uppercase;
     text-align: center;
 
     @include media-query($on-laptop) {
