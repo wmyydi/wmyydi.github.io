@@ -6,9 +6,11 @@ thumb: https://github.com/wmyydi/wmyydi.github.io/blob/master/background/3 新�
 tags: work business metropolis
 ---
 
-​                     
+![](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/3 toutu.png?raw=true)
 
-一个公司采买节日福利，员工选购个人福利的工会平台，包含网站及移动端App。
+​                                             
+
+新华保险旗下公司采买节日福利、员工选购个人福利的工会平台，包含网站及移动端App。
 
 ​                 
 
@@ -20,11 +22,9 @@ tags: work business metropolis
 
 确定不同角色获取积分/现金渠道及购买方式：      
 
-| ![屏幕快照 2016-10-06 下午4.13.26](/Users/manman/Desktop/屏幕快照 2016-10-06 下午4.13.26.png) | ![屏幕快照 2016-10-06 下午4.12.54](/Users/manman/Desktop/屏幕快照 2016-10-06 下午4.12.54.png) |
-| ---------------------------------------- | ---------------------------------------- |
-|                                          |                                          |
+![](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/3 需求.png?raw=true)
 
-​                 
+​                                          
 
 **思考**
 
@@ -34,17 +34,17 @@ tags: work business metropolis
 
 通过思维导图理清信息架构（App）：
 
- ![Slice](../../Desktop/Slice.png)
+ ![](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/3 导图.png?raw=true)
 
 通过调查我们发现关于福利的种类可以不局限于实体福利，除了利用平台优势将保险作为福利，各种优惠券等线下服务也是很好的福利选择。将其作为一大类加以突出，可以提高员工的幸福感。
 
-
+​                   
 
 **增加亮点**
 
 虽然App包含内容只是网站的一部分，但很多功能设计得当可以得到更好的效果。
 
-例如在首页放置**福利日历**，不仅可以提醒卡券等到期及时使用或续费，不浪费已有福利。也可以放置福利预告，提高员工工作的积极性。![新华线上工会_员工_我的福利_首页](../../Desktop/新华线上工会_员工_我的福利_首页.png)
+例如在首页放置**福利日历**，不仅可以提醒卡券等到期及时使用或续费，不浪费已有福利。也可以放置福利预告，提高员工工作的积极性。![](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/3 首页.png?raw=true)
 
 ​                      
 
@@ -52,11 +52,11 @@ tags: work business metropolis
 
 虚拟福利总是悄无声息？打开App时，如果有新发放的福利则弹出福利弹窗，是不是会感到惊喜。
 
-![屏幕快照 2016-10-06 下午7.43.37](../../Desktop/屏幕快照 2016-10-06 下午7.43.37.png)
+![](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/3 交互.png?raw=true)
 
-​                 
+​                                   
 
 **交互文档**
 
-截取一小节交互文档，将相同页面的不同状态统一整理，方便对比查看，理清思路。![我的福利](../../Desktop/我的福利.png)
+截取一小节交互文档，将相同页面的不同状态统一整理，方便对比查看，理清思路。![](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/3 例子.png?raw=true)
 
