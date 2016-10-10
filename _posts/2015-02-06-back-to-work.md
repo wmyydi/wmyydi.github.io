@@ -83,7 +83,7 @@ tags: home work office coding design
 
 **总结**
 
-![](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/1 对比.gif?raw=true)
+![](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/1 对比.png?raw=true)
 
 一期上线一段时间后，医院取消了窗口挂号，希望这个产品可以帮助到苦于挂号的家长们。虽然有功能这一期没有上线，也没机会再做优化，但是会总结经验在以后做得更好。
 
