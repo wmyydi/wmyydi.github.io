@@ -1,18 +1,8 @@
 ---
 layout: page
-title: About
+title: 简历
 permalink: /about/
 ---
 
-Travelogue is a minimal, single-column Jekyll theme that provides an immersive read experience for your readers.
+![](https://github.com/wmyydi/wmyydi.github.io/blob/master/background/简历.pdf?raw=true)
 
-![Post](https://dl.dropboxusercontent.com/u/18322837/GitHub/Travelogue/Post.png)
-
-## Getting Started
-The theme provides a complete Jekyll setup. Download it and start the Jekyll server.
-
-    git clone https://github.com/SalGnt/Travelogue.git
-    cd Travelogue
-    jekyll serve
-
-Visit the [Jekyll website](http://jekyllrb.com/) for more information.
