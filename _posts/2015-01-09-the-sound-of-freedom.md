@@ -2,7 +2,7 @@
 layout: post
 title: 视觉设计
 date: 2015-01-09
-thumb: https://github.com/wmyydi/wmyydi.github.io/blob/master/background/5 icon.jpeg?raw=true
+thumb: https://github.com/wmyydi/wmyydi.github.io/blob/master/background/5 视觉.png?raw=true
 category: music
 tags: relax fun songs playlist
 ---
