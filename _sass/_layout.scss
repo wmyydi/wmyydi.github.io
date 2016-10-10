@@ -3,13 +3,12 @@
    ========================================================================== */
 
 #sb-site {
-    background-color: transparent;
+    background-image:url(https://github.com/wmyydi/wmyydi.github.io/blob/master/background/1%20icon.png?raw=true);
     padding: ($spacing-unit * 2) 0;
 }
 
 .container {
-  
-    background-image:url(https://github.com/wmyydi/wmyydi.github.io/blob/master/background/1%20icon.png?raw=true);
+    background: $background-color;
     padding: 0;
     position: relative;
     margin: 0 auto;
