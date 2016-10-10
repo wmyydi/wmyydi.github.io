@@ -53,7 +53,7 @@
     color: $text-color-light;
     letter-spacing: 1px;
     z-index: 2;
-    border-right: 1px solid #e7e7e7;
+    border-right: 4px solid #f15a25;
 
 
     .site-title {
@@ -111,7 +111,7 @@
 
                 &:hover {
                     background-color: $light-color;
-                    color: $text-color;
+                    color: #f05119;
                     text-decoration: none;
                 }
             }
