@@ -53,7 +53,7 @@
     color: $text-color-light;
     letter-spacing: 1px;
     z-index: 2;
-    border-right: 4px solid #f15a25;
+    border-right: 1px solid #f15a25;
 
 
     .site-title {
@@ -104,7 +104,7 @@
             }
 
             a {
-                color: $text-color-light;
+                color: #f15a25;
                 font-family: $base-font-family-sans;
                 display: block;
                 padding: ($spacing-unit / 2) ($spacing-unit / 3);
